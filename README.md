@@ -15,6 +15,7 @@
 ## Architecture
 <div class="badge-container">
 <img src="https://img.shields.io/badge/arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 
 <hr></hr>
 
