@@ -14,7 +14,7 @@
 
 ## Architecture
 <div class="badge-container">
-![Arduino](https://img.shields.io/badge/arduino-00878F.svg?&style=for-the-badge&logo=Java&logoColor=white)
+<img src="https://img.shields.io/badge/arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/>
 
 <hr></hr>
 
