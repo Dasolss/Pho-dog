@@ -1,4 +1,5 @@
 # Pho-dog (“photo” + “dog”)
+![image](https://github.com/Dasolss/Pho-dog/assets/106011096/18c53eeb-c048-473c-b0c4-7d6d2b966760)
 
 ## 프로젝트 내용
 >**강아지 심박수를 이용한 아두이노 카메라**   
